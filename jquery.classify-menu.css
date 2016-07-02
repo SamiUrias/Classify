@@ -1,0 +1,10 @@
+
+.classify-display-none{
+    display: none !important;
+}
+
+
+
+#menu-de-clasificacion-de-productos div.active span{
+    border-bottom: 2px solid #00adb5;
+}
