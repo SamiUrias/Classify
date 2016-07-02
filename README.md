@@ -5,7 +5,11 @@ Version: 1.0
 This plugin is not finished yet.
 
 #Instructions
+If you download all the archives, you will find 'index.html' which is an
+example of using the library with a simple menu.
+
 This plugin **NEEDS** Jquery to work, if you don't have it, it doesn't work.
 Please install Jquery before use the plugin. You can get the library [here](https://jquery.com/).
 While im writing this i am using Jquery V 3.0
 
+First 
